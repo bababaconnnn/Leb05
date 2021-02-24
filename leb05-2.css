@@ -1,16 +1,58 @@
 .bin {
     width: 16px;
-    margin-right: 5px;
+    margin-right: 15px;
+    margin-left: 17px;
+    margin-top: 8px;
 }
 .list {
     margin-top: 10px;
+    background-color: rgb(252, 237, 209);
+    border-radius: 20px;
+    height: 35px;
+    width: 300px;
+    margin-left: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #193a31;
+    line-height: -1;
+    font-size: 15px;
 }
 body {
-    background: #1D2B64;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #F8CDDA, #1D2B64); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #e96443;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #904e95, #e96443); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 #block {
-    background-color: wheat;
+    background-color: #ffdc7c;
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 10px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: #eb5035;
+    font-size: 50px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+.a {
+    margin-top: -25px;   
+}
+input {
+    margin-left: 45px;
+    margin-bottom: 25px;
+    border: 0 ;
     border-radius: 10px;
+    height: 20px;
+    margin-right: 5px;
+}
+button {
+    border: 0;
+    border-radius: 10px;
+    height: 22px;
+    background-color: #6ba292;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 246, 228);
 }
