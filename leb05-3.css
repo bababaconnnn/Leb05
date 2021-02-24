@@ -1,0 +1,18 @@
+.wordDay {
+    color: rgb(216, 36, 36);
+}
+.wordNight {
+    color: royalblue;
+}
+.white {
+    color: seashell;
+}
+.black {
+    color: black;
+}
+.bgNIGHT {
+    background-color: black;
+}
+.bgDAY {
+    background-color: white;
+}
